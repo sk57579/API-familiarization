@@ -1,7 +1,7 @@
 from Bio import Entrez
 
 # needed as per enterez documentation
-Entrez.email = "sohankureti@gmail.com"
+Entrez.email = "enteryouremail@gmail.com"
 
 
 def fetch_pubmed_article_details():
